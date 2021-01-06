@@ -1,5 +1,5 @@
-# plain-javascript-in-docker
-JavaScript + HTML to render Hello Page 
+# plain-javascript
+JavaScript + HTML question 
 
 PROJECT START STEPS:
 
