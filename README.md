@@ -1,15 +1,6 @@
 # plain-javascript-in-docker
 JavaScript + HTML to render Hello Page 
 
-
-IMPORTANT NOTES:
-
-    1. The backend endpoint host url can be accessed using "API_URL" property (mentioned in env.js). An example is shown in index.js.
-    2. PLEASE USE THIS PROPERTY ("API_URL") WHEN YOU ARE TRYING TO CALL A BACKEND API. 
-    3. When testing in your local environment, please change API_URL to http://localhost:8080.
-    4. Before committing your solution, ENSURE THAT YOU CHANGE THE API_URL TO 'http://restapi:8080' ELSE YOUR SUBMISSION WILL NOT BE SCORED.
-    5. Also, ensure that env.js must be the first file that must be loaded so that API_URL is accessible in subsequent files.
-
 PROJECT START STEPS:
 
     Pre-requisites:
